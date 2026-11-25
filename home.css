@@ -1,0 +1,30 @@
+body{
+    background-color: #918383;
+    
+    margin: 0;
+    padding: 0;
+
+}
+#nav{
+display: flex;
+    background-color: #0c0000;
+    padding: 10px;
+    
+}
+
+#nav a{
+    color: #ffffff;
+    background-color: #000000c0;
+    text-decoration: none;
+   gap: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    
+    
+}
+
+#nav a:hover{
+    color: #ffffff;
+    background-color: #4b3838c0;
+    text-decoration: none;
+}
