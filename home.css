@@ -85,6 +85,7 @@ border-radius: 15px;
 }
 #bottom
 {
+    height: 50%;
     display:flex;
 }
   #bottom img{
